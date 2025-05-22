@@ -65,7 +65,7 @@ The goal of this project is to estimate the machining cost of CNC-manufactured p
 ---
 
 ## 👤 Author
-[Your Name]  
+Ranjith Kumar R  
 Data Science Intern Applicant
 
 
